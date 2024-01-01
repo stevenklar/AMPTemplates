@@ -41,7 +41,9 @@
 					"game_mode": "game_mode",
 					"max_players": "$MaxUsers",
 					"pvp": "pvp",
-					"pause_when_empty": "pause_when_empty"
+					"pause_when_empty": "pause_when_empty",
+					"enable_snapshots": "enable_snapshots",
+					"enable_autosaver": "enable_autosaver"
 				}
 			},
 			{
