@@ -155,7 +155,7 @@
     },
     {
         "DisplayName": "Enable Snapshots",
-        "Category": "Server Settings",
+        "Category": "Cluster Settings",
         "Description": "Enable/Disable Snapshots",
         "Keywords": "enable snapshots",
         "FieldName": "enable_snapshots",
@@ -171,7 +171,7 @@
     },
     {
         "DisplayName": "Enable Autosaver",
-        "Category": "Server Settings",
+        "Category": "Cluster Settings",
         "Description": "Enable/Disable Autosaving at the begining of each day in-game",
         "Keywords": "enable autosaver",
         "FieldName": "enable_autosaver",
